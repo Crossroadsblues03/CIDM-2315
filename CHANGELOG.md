@@ -10,3 +10,6 @@
 2/12/2024
 - Uploaded Homework4Q1.cs file
 - Uploaded Homework4Q2.cs file
+
+3/04/2024
+-Uploaded Homework6.cs file
